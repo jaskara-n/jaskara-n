@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=jaskara-n&style=flat-square&color=blue" alt=""/>
 <br>
   <h1>
-A fellow web3 enthusast  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+A fellow web3 enthusiast  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   - :telescope: I’m working as a Blockchain and Cloud Engineer and contributing to contracts and backend for building web applications and Dapps.
   <br>
