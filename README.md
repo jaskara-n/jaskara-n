@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/VePtB3roynxfLYicuV" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MeeshoTech-code-pull-github-VePtB3roynxfLYicuV">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/MeeshoTech-code-pull-github-VePtB3roynxfLYicuV" width="100"/>
+</div>
 ## Hi there 👋
 
 <!--
