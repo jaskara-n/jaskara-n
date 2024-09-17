@@ -38,6 +38,8 @@ A fellow web3 enthusast  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 <h2>:fire:My Stats</h2>
   <div>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jaskara-n&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-  <a href="/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskara-n&layout=compact&theme=vision-friendly-dark" alt="Github Stats"/></a></div>
+  <a href="/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskara-n&layout=compact&theme=vision-friendly-dark" alt="Github Stats"/></a>
+    <a href="/"><img src="https://github-readme-stats.vercel.app/api?username=jaskara-n&show_icons=true" alt="Github Stats"/></a>
+  </div>
 </div>
 
